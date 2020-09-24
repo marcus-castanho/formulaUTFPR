@@ -30,15 +30,21 @@ Based on this diagram and the engine rotation range, the project tested differen
 
 DIAGRAMA SERRA, DIAGRAMA ACELERACAO, DIAGRAMA FORÇA
 
+## Critical parts design
+
 Knowing the maximum load associated with the movement of the car, the size of the sprocket for the final gear ratio, based on the gear ratio chosen, it was possible to design a scheme for the axles of the car and develope a scrutural analysis taking into account the material chosen and the space available in order to optimize the mass reduction.
 
 IMAGEM SIMULAÇÃO ESTRUTURAL
+
+## Final 3D model
 
 After designing the most critical parts, other parts were selected from multiple commercial options. The virtual assembly is represented:
 
 IMAGEM CAD 3D
 
-This project challenges the students to be part of a full product developement project, passing through requirements of projects, client needs, technical development, financial analysis for project funding, testing and finally production. The final prototype is presentend on the following photo in the 20219 FSAE Brasil Competition in Piracicaba, SP alongside this year's Fórmula UTFPR team.
+## Prototype and competiion
+
+This project challenges the students to be part of a full product developement project, passing through requirements of projects, client needs, technical development, financial analysis for project funding, testing and finally production. The final prototype is presentend on the following photo in the 20219 FSAE Brasil Competition in Piracicaba, SP alongside that year's Fórmula UTFPR team. The Fórmula UTFPR team ended the competition in 21st place out of 38 teams, being the team that progressed the most in comparison to the 2018's competition, in which it ended in last place due to multiple points penalties.
 
 IMAGEM EQUIPE COM CARRO NA COMPETIÇÃO
 
