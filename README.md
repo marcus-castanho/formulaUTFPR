@@ -12,7 +12,7 @@ This repository contains specifically the part of the project related to the tra
 
 ## Project requirements
 
-The project requirements based on the official documents provided by SAE and functional testint for the vehicule transmission are contained within the following domains:
+The project requirements based on the official documents provided by SAE and functional testing for the vehicule transmission are contained within the following domains:
 
 - Transfer the power and torque efficiently from the engine to the wheels
 - Protection for the transmission parts
