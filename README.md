@@ -19,3 +19,26 @@ The project requirements based on the official documents provided by SAE and fun
 - Material for protections
 - Gometry requirements for protections 
 - Choose ideally solutions that improve the mass reduction of the car
+
+## Mapping the characteristics of transmission based on the power and torque delivered by the engine
+
+The main aim of the project was to understand how the power and torque would be transmitted and delivered to the wheels based on the engine characteristics. The engine used in the project was a Yamaha YZF-R3. The power and torque diagram:
+
+DIAGRAMA POWER TORQUE
+
+Based on this diagram and the engine rotation range, the project tested differents transmission final ratios to then, obtain the following diagrams: 1) range of velocities sorted by gear of engine; 2) instant acceleration of the car plotted against the instant velocity; 3) force associated with each acceleration and therefore, the load which the transmission components would be facing. 
+
+DIAGRAMA SERRA, DIAGRAMA ACELERACAO, DIAGRAMA FORÇA
+
+Knowing the maximum load associated with the movement of the car, the size of the sprocket for the final gear ratio, based on the gear ratio chosen, it was possible to design a scheme for the axles of the car and develope a scrutural analysis taking into account the material chosen and the space available in order to optimize the mass reduction.
+
+IMAGEM SIMULAÇÃO ESTRUTURAL
+
+After designing the most critical parts, other parts were selected from multiple commercial options. The virtual assembly is represented:
+
+IMAGEM CAD 3D
+
+This project challenges the students to be part of a full product developement project, passing through requirements of projects, client needs, technical development, financial analysis for project funding, testing and finally production. The final prototype is presentend on the following photo in the 20219 FSAE Brasil Competition in Piracicaba, SP alongside this year's Fórmula UTFPR team.
+
+IMAGEM EQUIPE COM CARRO NA COMPETIÇÃO
+
