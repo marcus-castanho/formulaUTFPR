@@ -10,12 +10,12 @@ This project competed in the 2019 FSAE - Brasil competition representing the Fed
 
 This repository contains specifically the part of the project related to the transmission of the vehicule, which I was part of and also leading it.
 
-##Project requirements
+## Project requirements
 
 The project requirements based on the official documents provided by SAE and functional testint for the vehicule transmission are contained within the following domains:
 
+- Transfer the power and torque efficiently from the engine to the wheels
 - Protection for the transmission parts
 - Material for protections
 - Gometry requirements for protections 
-- Transfer the power and torque efficiently from the engine to the wheels
-- Choose ideally solutions that improve the mass reduction of the project
+- Choose ideally solutions that improve the mass reduction of the car
