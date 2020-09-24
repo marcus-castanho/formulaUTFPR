@@ -3,9 +3,9 @@ This is a project developed for the 2019 FSAE - Brasil competition regulated by 
 
 This project competed in the 2019 FSAE - Brasil competition representing the Federal University of Technology – Paraná (UTFPR) with the team FÓRMULA UTFPR. You can find more about the team by its official social networks:
 
-- [Official website](http://formulautfpr.com.br/)
-- [Facebook](https://www.facebook.com/FormulaUTFPR)
-- [Instagram](https://www.instagram.com/formulautfpr/)
+- Official website: [keep up with Fórmula UTFPR](http://formulautfpr.com.br/)
+- Facebook: [follow Fórmula UTFPR on Facebook](https://www.facebook.com/FormulaUTFPR)
+- Instagram: [follow Fórmula UTFPR on Instagram](https://www.instagram.com/formulautfpr/)
 
 
 This repository contains specifically the part of the project related to the transmission of the vehicule, which I was part of and also leading it.
