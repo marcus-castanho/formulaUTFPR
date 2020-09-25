@@ -44,7 +44,7 @@ Knowing the maximum load associated with the movement of the car, the size of th
 
 After designing the most critical parts, other parts were selected from multiple commercial options. The virtual assembly is represented:
 
-![3D assembly](./images/3dAssembly.png)
+![3D assembly](./images/3DAssembly.png)
 
 ## Prototype and competiion
 
