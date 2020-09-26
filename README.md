@@ -6,7 +6,7 @@
 # Fórmula UTFPR - Vehicule transmission project
 This is a project developed for the 2019 FSAE - Brasil competition regulated by [SAE International](https://www.sae.org/). The goal of the competition is to present and phisically test a project of a race vehicule based on the regulation and specifications required by SAE. The cars are developed by teams representing multiple universities and higher education institutions of Brasil. To understand more about the competition please access the official website of the competition [www.fsaeonline.com/](https://www.fsaeonline.com/).
 
-This project competed in the 2019 FSAE - Brasil competition representing the Federal University of Technology – Paraná (UTFPR) with the team FÓRMULA UTFPR. You can find more about the team by its official social networks:
+This project competed in the 2019 FSAE - Brasil competition representing the Federal University of Technology – Paraná (UTFPR) with the team FÓRMULA UTFPR. You can find more about the team by its official social media:
 
 - Official website: [keep up with Fórmula UTFPR](http://formulautfpr.com.br/)
 - Facebook: [follow Fórmula UTFPR on Facebook](https://www.facebook.com/FormulaUTFPR)
