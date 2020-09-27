@@ -29,31 +29,52 @@ The project requirements based on the official documents provided by SAE and fun
 
 The main aim of the project was to understand how the power and torque would be transmitted and delivered to the wheels based on the engine characteristics. The engine used in the project was a Yamaha YZF-R3. The power and torque diagram:
 
-![Power and Torque diagram](./images/PowerTorqueCurve.png)
+
+<p align="center">
+    <img alt="Power and Torque diagram" src="./images/PowerTorqueCurve.png" width="500">
+</p>
 
 Based on this diagram and the engine rotation range, the project tested differents transmission final ratios to then, obtain the following diagrams: 1) range of velocities sorted by gear of engine; 2) instant acceleration of the car plotted against the instant velocity; 3) force associated with each acceleration and therefore, the load which the transmission components would be facing. 
 
-1. ![Velocity rotation diagram](./images/RPMxVel.png)
 
-2. ![Acceleration velocity diagram](./images/AccelerationCar.png)
+1.<p align="center">
+    <img alt="Velocity rotation diagram" src="./images/RPMxVel.png" width="500">
+</p>
 
-3. ![Traction force diagram](./images/TractiveForce.png)
+2.<p align="center">
+    <img alt="Acceleration velocity diagram" src="./images/AccelerationCar.png" width="500">
+</p>
+
+3.<p align="center">
+    <img alt="Traction force diagram" src="./images/TractiveForce.png" width="500">
+</p>
 
 ## Critical parts design
 
 Knowing the maximum load associated with the movement of the car, the size of the sprocket for the final gear ratio, based on the gear ratio chosen, it was possible to design a scheme for the axles of the car and develope a scrutural analysis taking into account the material chosen and the space available in order to optimize the mass reduction.
 
-![Axle structural analisys](./images/AxleSimulation.png)
+
+<p align="center">
+    <img alt="Axle structural simulation" src="./images/AxleSimulation.png" width="800">
+</p>
 
 ## Final 3D model
 
 After designing the most critical parts, other parts were selected from multiple commercial options. The virtual assembly is represented:
 
-![3D assembly](./images/3DAssembly.png)
+
+<p align="center">
+    <img alt="3D assembly" src="./images/3DAssembly.png" width="500">
+</p>
 
 ## Prototype and competiion
 
-This project challenges the students to be part of a full product developement project, passing through requirements of projects, client needs, technical development, financial analysis for project funding, testing and finally production. The final prototype is presentend on the following photo in the 20219 FSAE Brasil Competition in Piracicaba, SP alongside that year's Fórmula UTFPR team. The Fórmula UTFPR team ended the competition in 21st place out of 38 teams, being the team that progressed the most in comparison to the 2018's competition, in which it ended in last place due to multiple points penalties.
+This project challenges the students to be part of a full product developement project, going through requirements of projects, client needs, technical development, financial analysis for project funding, testing and finally production. The final prototype is presentend on the following photo in the 20219 FSAE Brasil Competition in Piracicaba, SP alongside that year's Fórmula UTFPR team. The Fórmula UTFPR team ended the competition in 21st place out of 38 teams, being the team that progressed the most in comparison to the 2018's competition, in which it ended in last place due to multiple points penalties.
 
-![Formula UTFPR team](./images/formulaUTFPRteam.png)
+
+<p align="center">
+    <img alt="Formula UTFPR team" src="./images/formulaUTFPRteam.png" width="500">
+</p>
+
+Other members involved in the project: Marcelo Griebeler, Matheus Jankovski, Felipe Jacomel, Matheus Martins, Laura Bonatti, Mariana Grigoleto, Eric Tokuda, Matheus Percebon, Henrique Dolinski, Kelvin Klingenfuss, Gabriel Batista, André Ceccon, Rafael Ramalho, Rafael Pietsch, Lucas Franco, Lucas Mathias, Ricardo Janssen, Guilherme Bueno, Gabriel Moreli, Henrique Mosson, Murilo Sambulski.
 
